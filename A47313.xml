@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is a further discovery of the formal preachers in Reading and some of their words made publick: or, an answer to part of a book put forth by William Lambel and John Bye, called, A stop to the false characterer's hue and cry. Wherein they endeavour to cover the author that sent the paquets also seven queries which they mention in their epistle made publick for them to answer. Written the 3d. month, 1685, by a lover of the truth, but an enemy to deceit and hypocrisy, let it appear where it will</title>
+            <author>Key, Leonard.</author>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47313</idno><idno type="EEBO-CITATION">99832943</idno>
+  <idno type="VID">37418</idno>
+  <idno type="EEBO-PROQUEST">2240891357</idno>
+  
+            <idno type="STC">Wing K383A</idno>
+            <idno type="STC">ESTC R221664</idno>
+            <idno type="PROQUEST">99832943</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832943e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is a further discovery of the formal preachers in Reading and some of their words made publick: or, an answer to part of a book put forth by William Lambel and John Bye, called, A stop to the false characterer's hue and cry. Wherein they endeavour to cover the author that sent the paquets also seven queries which they mention in their epistle made publick for them to answer. Written the 3d. month, 1685, by a lover of the truth, but an enemy to deceit and hypocrisy, let it appear where it will</title>
+                  <author>Key, Leonard.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>"A stop to the false characterer's hue and cry" by William Lambel and John Bye not found.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lamboll, William. --  Stop to the false characterer's hue and cry --  Controversial literature --  Early works to 1800.</term>
+               <term type="personal_name">Buy, John. --  Stop to the false characterer's hue and cry --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:37418:1"/>
+            <pb n="1" facs="tcp:37418:1"/>
+            <p>
+               <hi>Here is a further Discovery of the</hi> Formal Preachers <hi>in</hi> Reading <hi>and some of their Works made Publick: Or, an</hi> Answer <hi>to part of a Book put forth by</hi> William Lambel <hi>and</hi> John Bye, <hi>called,</hi> A Stop to the False Characterer's Hue and Cry. <hi>Wherein they endeavour to Cover the Author that sent the Pacquets also seven</hi> Queries <hi>which they mention in their</hi> Epistle <hi>made Publick for them to answer.</hi>
+            </p>
+            <closer>
+               <dateline>Written <date>the 3d. Month, 1685,</date>
+               </dateline>
+               <signed>by a Lover of the <hi>Truth,</hi> but an Enemy to <hi>Deceit</hi> and <hi>Hypocrisy,</hi> let it appear where it will, Leonard Key.</signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <p>REader, these two Persons that have appeared in Print, to vindi<g ref="char:EOLhyphen"/>cate the nameless Author that sent the Pacquets, whereby ma<g ref="char:EOLhyphen"/>ny have been abused by such Ungodly Practices; which occasi<g ref="char:EOLhyphen"/>oned an <hi>Hue and Cry</hi> to be sent forth after him, wherein he was described, and his words truely stated; see his Language, and com<g ref="char:EOLhyphen"/>pare it with theirs: they which endeavour to cover him, are very zealous for the Form, as by their dayly Practices doth appear; but they say, <hi>They do not sit with their Hats on when the Lords Servants are moved to Pray, but when such as are his Enemies undertake to Pray.</hi> Observe. This may be a Caution for all to try thems<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves, and see how it stands; for one of them is looked upon very Eminent for most of the Travailing Friends, esp<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cially such as are like themselves, that will contend for the <hi>Form;</hi> s<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of which have told us, <hi>It was Set up to keep things Sweet and Clean,</hi> do often Lodge at his H<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use, and <hi>T. C.</hi> their Old Acquaintance, with others, are almost forgo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten, unless when they are cencern<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to Pray who are better known to them by Name than from inward sence; for when one comes that is not known by Name, they are at a loss; one in<g ref="char:EOLhyphen"/>stance I may give: there came an Antient Friend to visit us in the Love of God the last Summer; and I have so much Charity, that at that time they did think so as well as I, and doubtless, did think he had been one that had run with the Stream, for their Carriage did speak the s<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me; we had a good Meeting, in which many were refreshed, and when he Prayed, their Hats were all off, as was observed; and when the Meeting ended, <hi>J. B.</hi> asked a Friend what his Name was, and he told him, and
+<pb n="2" facs="tcp:37418:2"/>that he Lodged at <hi>L. K</hi>'s; then he had a sence of his Spirit, and the rest that heard his Name; for the next Meeting he had, they sate with their Hats on. So these things are left to the wise in Heart to consider of, and from what ground they have arisen, with other pretended Mo<g ref="char:EOLhyphen"/>tions that have been stamped with high Names. <hi>Job</hi> 17.8, 9, 10. <hi>Ʋpright Men shall be astonished at this, and the Innocent shall stir up himself against the Hypocrites; the Righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger; but as for you all, do you return, and come now, for I cannot find one wise Man amongst you.</hi>
+            </p>
+            <p>You say in your Epistle, <q>The <hi>Queries</hi> we acknowledge were sent to us in <hi>Manuscript;</hi> now, as for the Observations, we saw them not till they were Printed.</q> (<hi>Answer.</hi> The Observations concerned the Author of the <hi>Pacquets</hi>) And you say, <q>The plain Reason why we did not An<g ref="char:EOLhyphen"/>swer those Queries at that time, was the Injustice and unfair Dealing we had met with from <hi>L. K.</hi> to which <hi>W. L.</hi> gave an Answer in Writing, Sealed; which Answer soon after <hi>L. K.</hi> had received, he tore into pieces without so much as looking into it, to see, or take no<g ref="char:EOLhyphen"/>tice what was written therein.</q>
+               <hi>Observe,</hi> The <hi>Answer</hi> you mention, concerned something that had happened before, which you had secretly spread abroad in Writing, to the Wrong and Defamation of your Neigh<g ref="char:EOLhyphen"/>bours; which you were often called upon to make good, but never did do it. And if you had stated the Matter right, you should have told the Reader what a long Discourse <hi>William Anstal</hi> and <hi>L. K</hi> had together before the Letter was tore, you need not have heaped so many black Names upon <hi>L. K.</hi> for that Act; for he doth say his end was good in that thing, and did think by what had passed from him and <hi>W. A.</hi> that the Difference as to that had been at an end.</p>
+            <p>But you go on and say, <q>This was the Reason why we then forbore to Answer his written <hi>Queries,</hi> and (say you) we willingly submit to the Judgment of Truth in every honest Friend, and we leave it to the Witress of God in every Upright Heart.</q>
+            </p>
+            <p>
+               <hi>Answer.</hi> If you had kept to it in your selves, you would not have been found in this Work, to vindicate one that was ashamed to put his Name to what he did (I mean, the <hi>Pacquet Merchant</hi>) And you say, <q>If any should question why we had not answered the Pamphlet sooner? we an<g ref="char:EOLhyphen"/>swer, his Impatiency considered, we therein followed the wise Man's Counsel.</q>
+            </p>
+            <p>
+               <hi>Observe.</hi> You might as well have said, the Counsel of the <hi>Second-day's Meeting;</hi> which, I suppose, approved of your Book.</p>
+            <p>And you say, 'Writing and Printing against the People of the Lord Reader, observe who is named in the <hi>Hue and Cry,</hi> that was occasioned
+<pb n="3" facs="tcp:37418:2"/>by one that was ashamed of his Name, which is little better than a <hi>Pick-Pocket;</hi> and the Names given him therein, are due to his evil Undertakings.</p>
+            <p>In Page 6 you say, <q>We have examined your railing Pamphlet, and what hath been sent by <hi>Post</hi> to you or others, of what Contents, or from whom, we neither know, nor think our selves concerned to en<g ref="char:EOLhyphen"/>quire. <hi>(Observe)</hi> yet saith <hi>W. L.</hi> and <hi>J. B.</hi> The Person that sent you your Books again, is called in your Pamphlet, <hi>Formal Apostate, En<g ref="char:EOLhyphen"/>vious Person, Treacherous Person, Night-Wanderer;</hi> and this sort of Language is to be found in your Pamphlet. Page 7. 'Tis the Title and common strain, <hi>Libeller, Libeller:</hi> but whoever it be that you mean, what do you so often call him <hi>Libeller?</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Answer.</hi> I perceive the word troubles you, that the nameless Author should be so termed. And say you, <q>Is it only because he set not his Name to the Pacquets (you say) he sent you; for you say, <hi>We know no other Reason you can give but this:</hi> (observe, Reader) but then you quarrel about your <hi>Money,</hi> your 14 <hi>d.</hi> and 18 <hi>d.</hi> for <hi>Postage,</hi> and are wrangling about a Name, as though they were the two main things that trouble you.</q>
+               <hi>Answer.</hi> We are troubled that any Person that would seem to be Religious, should be found in such unjust Practices, and that you should appear in Print to cover him in it, and to villifie your peacea<g ref="char:EOLhyphen"/>ble Neighbours: And this I have further to signifie, That I do not know of any <hi>Pacquets</hi> that have been sent by <hi>Post,</hi> to put our Friends to such unnecessary Charges as is before mentioned, since the <hi>Hue and Cry</hi> was put forth; so that the Publishing of it hath been of great Service, and our end as to that is answered; and our Desires are, That the <hi>Libeller</hi> that was the Cause of it, and you that have appeared to vindicate him, may come to have a sight of what you have been doing, and Repent.</p>
+            <p>But say <hi>W. L.</hi> and <hi>J. B.</hi>
+               <q>Through all your Coverings the Light discovers you.</q>
+            </p>
+            <p>
+               <hi>Answer.</hi> May you not be beholden to the Nameless Author for this Advice you give us, see his Language in the <hi>Hue and Cry,</hi> pag. 7.</p>
+            <p>And in the <hi>Postscript,</hi> say you, <q>Here is a short Description given of him, meaning (say you) the Person that sent the Books; a short De<g ref="char:EOLhyphen"/>scription indeed, but a long Vilification and foul Reproach.</q>
+            </p>
+            <p>
+               <hi>Answer.</hi> What is said in the <hi>Postscript</hi> is true, and hath hit the Matter which many are galled about, and what you have done will give them and your selves but little case. The Reader is desired to see for himself, and then he may the better Judge; the Lord hath given understanding to ma<g ref="char:EOLhyphen"/>ny, that they may see for themselves, sonone need say, as <hi>William Lambel</hi> did in the hearing of many, <hi>That if the Friends at</hi> London <hi>did Err, he would Err.</hi>
+               <pb n="4" facs="tcp:37418:3"/>So that it plainly appears, He pins his Faith upon other Folks sleeves. In Page the 8. <q>You say, Are you not found to be Libellers, who call the person you write against, <hi>Formal Apostate,</hi> five times over, without any proof thereof.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> No, we put our Names to what we writ; and if Blindness had not happened, you would not have been found in this work.</p>
+            <p>(Again you say) <q>Rage and Anger possesses your Breasts, your Spirits frets, and are disquieted within you.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> You are as found in your Judgments in this Matter. As the two Elders of <hi>Israel</hi> was in days past, <hi>Which bore false witness against the Innocent.</hi>
+            </p>
+            <p>
+               <q>But say you, they was in <hi>Babylon.</hi>
+               </q> I shall leave the Reader to judg, where you are, and how you have Answered; the Queries may be seen by them that Read.</p>
+            <p>
+               <q>And the great stir you make in <hi>Page</hi> 9.) That you had not the Obser<g ref="char:EOLhyphen"/>vations, as well as the Queries, before they were made publick.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> I say to you as I said before, they concerned the Author of the Packets: Unless you will come forth, and tell the People you was the persons that sent them, and concealed your Names; and when you so do, I shall acknowledg I was mistaken in wording the Matter. But however, you deserve to be considered for what you have done, and to have the Applause of all that are like minded with you; for I do not know any that would have undertook what you have done: So that if the Author of the Packets do not consider you also, he is much to blame.</p>
+            <p>
+               <q>And in <hi>Page</hi> 11. You tell of the way of Truth.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> Surely the Packet Merchant that you would cover, was out of it, and you also that endeavour to cover him.</p>
+            <p>
+               <q>In <hi>Page</hi> 12. You tell of the Apostles, and what they practised and set up.</q> And you say come <hi>Leonard,</hi> consider seriously of these things.</p>
+            <p>
+               <hi>Answer,</hi> I do not find that you have quoted one place of Scripture, that they did set up Womens meetings distinct from the men, to keep things sweet and clean, as hath been often said to us formerly. So these have been the persons, that hath been in the <hi>Loe heres,</hi> and <hi>Loe theres;</hi> some times for one thing, and some times for another. Like to the Merchants of <hi>Babylon</hi> in days past, when one thing would not serve and go off, they had another ready. And such never wanted Matter, or great swelling Words to stamp things with. But the day is come, blessed be the Lord, and the Eye is opened, that beholds the whorish Spirit, in all her Paints and Dresses.</p>
+            <pb n="5" facs="tcp:37418:3"/>
+            <p>
+               <q>And in <hi>Page</hi> 13. (you say) They that have erred from the Spirit, are in the Snare.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> Very true, therefore it concerns all to keep to the measure in themselves, and not do like <hi>W. L.</hi> as is before hinted.</p>
+            <p>
+               <q>(And you say) Thou bidst us Read, and see how it was with <hi>Israel</hi> of old, when they forsook the Lord. (But say you) thou dost not direct us where to read and see it.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> I say to you and all People, Let every mind be turned inward, and there wait till the Lord is pleased to appear; whose appearance is as the morning without Clouds, and he doth give to all such as truly wait upon him, a sense of their own condition: And this keeps out of the rambling, and running hither and thither.</p>
+            <p>
+               <q>And in <hi>Page</hi> 16. (say you) We neither set up, nor contend for any Form, but what the Spirit and Power of God leads into, and justifies in; Reader, observe how high things are stamped here.</q>
+            </p>
+            <p>
+               <q>In <hi>Page</hi> 17. you say, If any thing hath happened amiss amongst those that profess the Name of the Lord, doth that prove either that the order of Truth (say you) established amongst us, is not holy, or hath not a tendency to keep things sweet and clean?</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> If any knows such a state, it must be by keeping to the fear of the Lord in their own hearts, there is nothing else can do the work; as the Servant of the Lord testified in days past. And if there were an Hedg made every year, it would not do, although they should call them<g ref="char:EOLhyphen"/>selves that made it, by the name of the <hi>Yearly Meeting: That which is highly esteemed of amongst men, is an abomination in the sight of God,</hi> Luke 16.15.</p>
+            <p>And you seem to Query, <q>Whether the <hi>Quakers</hi> Form and holy Or<g ref="char:EOLhyphen"/>ders, was ever set up under the penalty of being cast into the Fiery Furnace.</q>
+            </p>
+            <p>The 11th. Query in the Hue and Cry, take for Answer: But least that should not satisfie you, look back and consider, what a heat of, spirit many was in as well as your selves, against <hi>J. S.</hi> and <hi>J. W.</hi> and how many run posting up and down, after that little Paper was sent (I think) out of <hi>Holland,</hi> in which Paper they were named: And when you met with them, had not you orders to bid them go Home? I think <hi>G. F.</hi> was too it. Now in this your work, did you not appear like unto <hi>Ahab</hi>'s Prophets in days past, which was near Four hundred in number, and spoke all as with one Mouth; but a lying spirit had entred them, by which the King was deceived. And was not he that was of another mind, accounted a bad spirit? Read and see how he was treated.</p>
+            <pb n="6" facs="tcp:37418:4"/>
+            <p>
+               <q>And in <hi>Page</hi> 18. you say, Those called Formal Preachers, do not sit with their Hats on, when the Lords Servants are moved to pray. (But say you) It is when such as are not the Servants of the Lord, but his Enemies, that takes upon them to Pray; <hi>Observe, this may be a Caution for all.</hi>
+               </q>
+            </p>
+            <p>And I suppose, many of you are like minded with <hi>W. L.</hi> and liked well how <hi>C. H.</hi> was treated by him publickly, when he came to <hi>Reading</hi> to visit us in the Love of God, was not what he met with from him, much like to what <hi>Amos</hi> the Prophet met with in days past from <hi>Jero<g ref="char:EOLhyphen"/>boams</hi> Priests? Was not <hi>C. H.</hi> bid go Home by <hi>W. L.</hi> and keep up his Testimony there: The Reader is desired to see a paper lately come forth, called, <hi>The Abominations in Jerusalem descovered.</hi> And that to the <hi>Formal Preachers,</hi> which was printed (as I suppose) without being approved of, at the second days meeting, so may have the less esteem by many, that makes a loud cry for Unity; and can as occasion serves, speak all as with one mouch.</p>
+            <p>
+               <q>But say you, The Lords Servants are such as are ruled by him, and found in his Work and Service.</q>
+            </p>
+            <p>
+               <hi>Ans.</hi> That is true: But can you that be found in the works of Unrigh cousness be such, or competent judges? And what makes you name <hi>W. R.</hi> and other pernicious Books, as you call them? And in this your work, are indeavouring to cover the Libeller. I could wish all would see for themselves, and not take things upon trust, for such are found judging before they hear; a practice condemned in days past, and no ways justi<g ref="char:EOLhyphen"/>fiable now. See the <hi>Seventh Part of the Christian Quaker:</hi> For as all keeps in that which favours, they will come to see for themselves, and need not fear being deceived.</p>
+            <p>
+               <q>In <hi>Page</hi> 19. you say, Thy secret smi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings do<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h not reach us. (but say you) If the weak stumble and fall, it will lie at your door, who have joyned to follow that Spirit of Opposition and Contention, and (as you say) rendred the antient and honourable in the Truth, Apo<g ref="char:EOLhyphen"/>states, Innovators, and Incliners to Popery.</q>
+            </p>
+            <p>
+               <hi>Answer.</hi> If others hath been doing that which the formal Apostate hath, which renders them to be as hath been testified, they must bear their own burdens, and your striving cannot give them ease. Therefore cease your work, and be still, and let them that be concerned answer for themselves.</p>
+            <p>
+               <q>And you say, Canst thou expect, <hi>Leonard,</hi> any should think that thou hast any regard to the weak, who in your malicious Pamphlet in print, hast laid so many stumbling Blocks in their way.</q>
+            </p>
+            <pb n="7" facs="tcp:37418:4"/>
+            <p>
+               <hi>Answer,</hi> What any that are envious like your selves, think of me, I matter it not: But my desire is, that all may be found looking to the Lord, who is able to remove them, and in his own time will rend all Vailes, and answer the sincerity where ever it appears, let People go under what Name, or Denomination they will, for his Love is Universal.</p>
+            <p>
+               <q>
+                  <hi>Page</hi> 20. (you say) How comest thou to suppose they were sent by a <hi>Formal Preacher,</hi> (I think you mean the Packets) seeing thou dost not know who sent them.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> His Language speaks him to be as I have said. See the <hi>Hue</hi> and <hi>Cry,</hi> and compare it with your own. <q>But saith <hi>W. L.</hi> and <hi>J. B.</hi> Were not the Packets you speak of, your own Books that you have printed, and spread about the Country?</q>
+               <hi>Answer,</hi> We can say our end was good in what we have done, though we had not the Approbation of the second days Meeting, and we have an answer of peace in our Bo<g ref="char:EOLhyphen"/>soms, which is a sufficient reward what ever we meet with, from others that are in Envie. See the offers that was made for peace at <hi>York.</hi>
+            </p>
+            <p>
+               <q>(But you say) I is most likely, it is your states and conditions opened unto you, in what was written upon those Books, or in those packets you speak of.</q>
+               <hi>Answer,</hi> That which opens every ones state and condition, is a near thing, which all will do well, that waits to feel the same that opens, a manifestation thereof being given to every one to pro<g ref="char:EOLhyphen"/>fit withal. <q>(But say you) We do not think it the fruit of a Christian Spirit, for any to send great packets by Post, on purpose to put Honest men to Charge; neither is it likely the Packets you speak of, were sent on purpose to put any of you to Charge.</q>
+               <hi>Answer,</hi> If the Packet Merchant had paid the postage, we might a thought so, as well as you 'But you say, it may be our states and conditions was opened by them. If you had said, our pockets had been opened, you had <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it the matter indeed. They came apace, four hither in eight days time, besides what went to other places. We gave you but a hint of the Charge. <q>(But you say) To us it seems far more probable, that whoever sent the packets, had a better end and purpose in sending them, then to put Honest men to Charge.</q> Reader, consider what a work here is made, to cover the nameless Author.</p>
+            <p>
+               <q>In <hi>Page</hi> 21. (you seem to Query) Whether we have not preserred our 3 <hi>s.</hi> 8 <hi>d.</hi> before the Honour of God, and the prosperity of his bles<g ref="char:EOLhyphen"/>sed Truth.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> In this you are greatly mistaken; it is best known to the Lord, how near and dear his Truth is to us, that he hath revealed and made known in our Hearts, which is given for a leader to God's people. <q>(But say you) Your opposing the good order of Truth, your Writing, Print<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:37418:5"/>Publishing to the World, your malicious Books and Pamphlets.</q> Observe what a work here is about the Pamphlet, as you call it, which hath both our Names to it; And how often have you named it? I perceive it doth gall you, and many more. And what a work you make to co<g ref="char:EOLhyphen"/>ver the Formal Apostate? It may make some think, that sees your work, that there is a great Affinity between you.</p>
+            <p>
+               <q>In <hi>Page</hi> 22. (you say) The calling such dark Spirits, is not giving bad names, but giving sutable names to bad things. Surely if you had intended to charge others wich giving bad Names, you should have forborn to give so many bad Names your selves; as your Pamphlet in almost every page is stuffed with.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> The merit of the cause, called for what we did. For I do say, that act of the nameless Author was little better, than to pick our pockets. And seeing you have appeared so much on his behalf, I doubt not, but you may hear of his works from other Hands. Have you a mind to pay the Debts he hath contracted? If you have, I do believe it will amount to some pounds, besides what is due to the Post-master. But seeing you are so troubled about our giving bad Names in our Sheet, it is desired that the Reader will look into a Book, put forth in the name of the <hi>Second Days Meeting,</hi> and see there what they have done; it is called, <hi>The Accuser.</hi>
+               <q>And in your Answer to the 12 Queries, you say it was the Elders of <hi>Israel</hi> (but in <hi>Babylon</hi>) mark that by the way, that in days past, gave unrighteous Judgment, and did condemn the Innocent. But what then (say you) thou askest, Hath it not been so in our days? You answer, No: In our days the Youngsters, and many loose raw Lads, have taken upon them to give unrighteous Judgment against the Elders, and hath condemned the Innocent.</q> Ob<g ref="char:EOLhyphen"/>serve, Who is so loose and raw, that makes any shew of Religion, as the nameless Author of the <hi>Packets;</hi> And where his Place and Resi<g ref="char:EOLhyphen"/>dence was when he sent them, I hope time will manifest: And where yours is that are many times in confusion, that have undertook to daub up the Packet Merchant, and to velifie your Neighbours. (Again, <hi>Page</hi> 23. What a Clamour do you make about <hi>J. S.</hi>) will not those that read your Book, see you to be Envious in what you have done, and said against him that is gone to his Grave in peace, besides what was said by the nameless Author; your reward will be according to your works.</p>
+            <p>
+               <q>(And you say) Hadst thou and others of you kept to the first prin<g ref="char:EOLhyphen"/>ciples, you might have been preserved out of that Evil Spirit, which hath led you to do so much misc<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ief as you have done.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> I do not know what they mean by this, unless it hath been our publishing the <hi>Hue</hi> and <hi>Cry</hi> against the Formal Apostate.</p>
+            <pb n="9" facs="tcp:37418:5"/>
+            <p>
+               <q>And they say, We must feel the wait of Judgment, if ever we come to receive Mercies (this is their sentence.) In <hi>Page</hi> 18. you say, After Truth had been declared, and many Convinced, and made a profession of it, then some turned from it again, and run into a cor<g ref="char:EOLhyphen"/>rupt Liberty, and therein brought forth such things, as are indeed a shame to mention, and a grief to the truly Righteous to think on.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> This is very true, therefore it concerns all to try themselves. I desire the Reader to consider of the Libeller's Work, that occasioned the <hi>Hue</hi> and <hi>Cry,</hi> and yours, that would cover him in it.</p>
+            <p>
+               <q>In <hi>Page</hi> 24. (you say) Now <hi>Leonard,</hi> having answered thy Queries, we shall not need to say much of thy Observations, which <hi>L. K.</hi> in<g ref="char:EOLhyphen"/>tended for the Packet Merchant: yet we cannot (say you) but take notice how thou shufflest in thy Answer, about shutting Friends out of their Meeting-House; which it seems was mentioned in three parti<g ref="char:EOLhyphen"/>culars, in some of the Packets thou speakest of. To the first of shut<g ref="char:EOLhyphen"/>ting the Quarterly Mens meeting out of the House at <hi>Blubery.</hi>
+               </q> Thy answer saith, If it were so, the Friends at <hi>Blubery</hi> best knows why it was so. But saith <hi>W. L.</hi> and <hi>J B.</hi> thou need not have said, if it were so, it was too notorious to be denied, or doubted.</p>
+            <p>Reader, Observe the confidence of these men, but I perceive they are willing to help their old Friend out of the Myre, though they ven<g ref="char:EOLhyphen"/>ture to myre themselves by doing it. <q>The next is <hi>Arther Estmead,</hi> (you say) nailing up their Meeting-House Doors at <hi>Calne;</hi> my answer to the Libeller doth not please, for they tell me on his behalf, that was but a poor simple shift <hi>Leonard;</hi> (and say you) it is greatly to be que<g ref="char:EOLhyphen"/>stioned, whether thou hast not belied thy own knowledg.</q>
+            </p>
+            <p>
+               <hi>Answer,</hi> I am very clear in what I have said, and so do not matter what any can say to the contrary; I understand <hi>Arther Estmead</hi> did not nail up the Meeting Houses Doors, therefore consider what you have been all a doing, and repent of your Lyes.</p>
+            <p>
+               <q>In <hi>Page</hi> 25 (say you) See now how you and the World have joyned, in one and the same Spirit, to do one and the same thing against Friends: <hi>Thus,</hi> say you, <hi>by your Fruits, your Spirits are judged.</hi>
+               </q>
+            </p>
+            <p>Observe and consider what your own Fruits are, and his that you have endeavoured so much to cover, by making use of what was sent, as Observations upon his wicked Works.</p>
+            <p>
+               <q>(But say you) If thou wouldst have something that more particu<g ref="char:EOLhyphen"/>larly hits him, the other Instance does it: The shuting of the Wo<g ref="char:EOLhyphen"/>mens Half-year Meeting, out of the Meeting-House at <hi>Reading.</hi> Which (as you say) several of them had right in; which was his
+<pb n="10" facs="tcp:37418:6"/>Act, meaning <hi>B. C.</hi>
+               </q> Observe Reader, if this be looked into, it will prove a very false Charge against <hi>B. C.</hi>
+            </p>
+            <p>
+               <q>And say you, on the behalf of the <hi>Formal Apostate,</hi> the Women Friends being shut out of the Meeting-House, were fain to meet in a Malt-House; and say you, thou scoffingly plays upon that.</q> Because I said that was hardly well taken by those that came from <hi>London,</hi> and other places; so still I find, what I say doth not please you. Observe, If you speak true, you must needs say the same. And you say it was Queried, I suppose you mean by the Packet Merchant. Is this your Li<g ref="char:EOLhyphen"/>berty of Conscience? (You say) I did scoffingly answer, in saying, Surely the Women in the Malt-House in <hi>Reading,</hi> there met and assem<g ref="char:EOLhyphen"/>bld together, might a brought forth as good an Edict, as they did that met at <hi>Barbadoes.</hi> If you be of another mind, let me know it in your next. <q>(You tell the Reader) I am become unsavory Salt. The end of which (say you) thou may read, <hi>Mat.</hi> 5.13.</q>
+               <hi>Hast no bridle to thy Tongue. Answer,</hi> If you have spoke true, it would be sad with <hi>L. K.</hi> and he might be in as much trouble as the Libeller is: And you that have endeavoured to espouse his unrighteous cause. You say in <hi>Page</hi> 14. <q>Did not he prove an Enemy to <hi>Israel,</hi> who set up a Seperate Altar at <hi>Bethel.</hi>
+               </q> Reply it's very true, let the 5th. and 6th. Query in the <hi>Hue</hi> and <hi>Cry,</hi> be an answer to that, and to what hath been set up in our days, <hi>Jeremiah</hi> 23.18, 19, verses, <hi>For who hath stood in the Counsel of the Lord, and hath perceived and heard his Word; who hath mark'd his Word and heard it: Behold, a Whirlwind of the Lord is gone forth in fury, even a grievous Whirlwind, it shall fall grievously upon the head of the wicked.</hi> Hosea 9.7. <hi>The days of Visitation are come,</hi> Israel <hi>shall know it, the Pro<g ref="char:EOLhyphen"/>phet is a fool, the Spiritual Man is mad, for the multitude of thine Iniquity and the great Hatred.</hi>
+            </p>
+            <div type="queries">
+               <p>Here follows the Queries.</p>
+               <p>
+                  <hi>First Query,</hi> Did you not endeavour the setting up the Womes Meet<g ref="char:EOLhyphen"/>ing distinct from the Men, that Idol that so many have run a Whoring after, and to bring in the new fashion Marriage amongst us, which hath been almost as troublesome in our days, as the setting up of the time called <hi>Easter,</hi> was in days past? And hath not as much Envy and Ma<g ref="char:EOLhyphen"/>lice lodged in you as was in them, and did you ever prove the practice of it to be according to the Scriptures?</p>
+               <p n="2">2. <hi>Query,</hi> Was it not endeavoured to be set up here with us, to gra<g ref="char:EOLhyphen"/>tifie the Preachers that was zealous for it, that took each other; and are not these things that are ushered in by some, that would fain get them<g ref="char:EOLhyphen"/>selves a Name, contrary to the Apostles Doctrine and Practice, who said, <hi>We look not at things that are seen, but at things that are not seen.</hi>
+               </p>
+               <p n="3">
+                  <pb n="11" facs="tcp:37418:6"/> 3. <hi>Query.</hi> And do not many of you that are in Envy and Strife, do what you do in Opposition, when you stand or sit with your Hats on in time of Prayer, and oftentimes stays behind, when most of the Friends parts? If it be not so, who is your example for those practices, seeing one of you said, in the hearing of many, if the Friends at <hi>London</hi> did Err, he would Err?</p>
+               <p n="4">4. <hi>Query.</hi> And doth not your staying behind often times, cause trouble to your peaceable Neighbours, which had rather be quiet then meddle with you, give to all that beholds you to know, that tehre is a standard of Contention held up by you, which was not when the Principle was the Guide and Leader?</p>
+               <p n="5">5. <hi>Query.</hi> And when you bring trouble upon your selves and them by your Confusion, and are carried sometimes to Prison for it; is it not your usual practice to lay your Sufferings, with your Name to it, before the second days Meeting, which cannot help themselves? therefore consi<g ref="char:EOLhyphen"/>der the Rod that is over you all, and do not you use to tell others of your Valour and Faithfulness?</p>
+               <p n="6">6. <hi>Query.</hi> And did not you do wickedly in spreading the Paper with many Lyes in it, against <hi>Thomas Curtis,</hi> and others, dated the 11th. of the 3d. Month, 84. and then came after it was spread, and ask'd him what he said? And when it was debated, did not you say you did not know of the spreading of it, and was not you all asked about it that was concerned, and did not one of you read it in the hearing of many, in one of your Houses, when the Womens half years Meeting was kept at <hi>Reading?</hi> And so may it not be said of you, as it was said by wise <hi>Solo<g ref="char:EOLhyphen"/>mon, When there is no Wood the Fire goeth out, and where there is no Tale<g ref="char:EOLhyphen"/>bearers strife ceaseth.</hi>
+               </p>
+               <p n="7">7. <hi>Query.</hi> And is not the Lord just in all these things, who will bring down <hi>Babylon</hi> in his own day and time, notwithstanding she hath said in her heart I sit as a Queen, and shall see no sorrow; her ruine is near, and all her Images must fall, and the false gods that she hath made, which cannot help themselves, must be ground to powder, in the Lord's own time. Therefore it matters not who saith, I have set up this, or I have set up the other thing, which at the first seemed green; a day of withering is come, and coming upon it all, the mowen grass is your Figure: So they are the happy People, that keeps in that which will endure for ever. It matters not what Name they go under, it is Sincerity the Lord looks at. Lamentations 3.37. <hi>Who is he that saith, and it cometh to pass, when the Lord commandeth it not.</hi>
+               </p>
+               <closer>
+                  <signed>L. K.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="afterword">
+            <pb n="12" facs="tcp:37418:7"/>
+            <p>Much more might have been written, to shew the unrighteousness of <hi>J. B.</hi> and <hi>W. L.</hi> in their Book, but it is no ways pleasant to such as are truly Religious, especially at this time of day, to be writing or reading of Controversies, occasioned by such as profess one Truth, and also considering that our Opposers are men that delicht in Contention, and have not scrupled to appear to vindicate such Wickedness, whereof but a hint is given in the <hi>Hue</hi> and <hi>Cry;</hi> and seeing they can take the li<g ref="char:EOLhyphen"/>berty to cover such Actions, what will not such do by their deceitful In<g ref="char:EOLhyphen"/>sinuations, so are not worth Answening any further at present. But shall commit our cause to God (till we feel a further concern from him) knowing that both they and us must shortly appear at the Bar of Righte<g ref="char:EOLhyphen"/>ous Judgment, and give and account of our works, and receive a reward according to our doings.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
